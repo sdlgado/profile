@@ -82,8 +82,15 @@ h3{
 }
 
 .fab {
-  font-size: 18px;
+  font-size: 30px;
 }
+
+
+.list-inline {
+
+}
+
+
 
 @media (max-width: 960px) {
   .container {
