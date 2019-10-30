@@ -50,11 +50,10 @@ h2 {
   text-align: center;
 }
 
-.list-inline > li {
+.list-inline {
   display: inline-block;
   padding-left: 0px;
 }
-
 
 .container {
     width: 700px;
