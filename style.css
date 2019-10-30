@@ -45,7 +45,7 @@ h2 {
 h3{
   font-family: 'Lora', serif;
   color: purple;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   line-height: 1.6;
 }
@@ -73,6 +73,7 @@ h3{
 
 .btn:hover {
   background-color: black;
+  color: white;
 }
 
 .list-inline {
