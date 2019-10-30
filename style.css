@@ -81,6 +81,10 @@ h3{
     margin: 40px auto;
 }
 
+i {
+  font-size: 18px;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
