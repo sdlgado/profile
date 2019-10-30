@@ -87,8 +87,13 @@ h3{
 
 
 .list-inline {
-  display: inline-block;
-  text-decoration: none;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
 }
 
 @media (max-width: 960px) {
