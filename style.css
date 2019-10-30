@@ -87,7 +87,7 @@ h3{
 
 
 .list-inline {
-
+  display: inline-block;
 }
 
 
