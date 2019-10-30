@@ -1,6 +1,11 @@
 body {
-  background-color: grey;
-  text-align: center;
+  background: #F7F9FC;
+  color: #575F7D;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  font-weight: lighter;
+  display: block;
+  margin: 8px;
 }
 
 h1 {
@@ -45,9 +50,18 @@ h2 {
   text-align: center;
 }
 
-.list-inline > li {
-  display: inline-block;
-  padding: 0px 20px;
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 
 .container {
