@@ -17,7 +17,6 @@ h1 {
 
 p {
   font-size: 17px;
-  padding-bottom: 20px;
 }
 
 a {
@@ -82,21 +81,13 @@ h2 {
 .button {
   background-color: #6B72E1;
   color: white;
-  margin-top: 10px;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
-.button :hover {
+.button:hover {
   background-color: black;
 }
 
-.list-inline i {
-  font-size: 30px;
-  color: rgb(230, 230, 230);
-}
-.list-inline i :hover {
-  color: black;
-}
 
 
