@@ -40,8 +40,16 @@ h2 {
   font-size: 24px;
   font-weight: bold;
   line-height: 1.6;
-
 }
+
+h3{
+  font-family: 'Lora', serif;
+  color: purple;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.6;
+}
+
 
 .img-circle {
   border-radius: 50%;
@@ -84,14 +92,14 @@ h2 {
   }
 }
 
-.button {
+.btn {
   background-color: #6B72E1;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
-.button:hover {
+.btn:hover {
   background-color: black;
 }
 
