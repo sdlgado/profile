@@ -1,5 +1,6 @@
 body {
   background-color: grey;
+  text-align: center;
 }
 
 h1 {
@@ -39,11 +40,10 @@ h2 {
   background-color: white;
   border: 100px;
   border-radius: 20px;
-  box-shadow: 10px 5px 5px blue;
+  box-shadow: 10px 5px 5px black;
 }
 
 .container {
-  text-align: center;
   width: 500px;
   margin: 0 auto;
 }
