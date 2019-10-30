@@ -37,8 +37,10 @@ a:hover {
 h2 {
   font-family: 'Lora', serif;
   color: green;
-  font-size: 22px;
-  font-weight: 400;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.6;
+
 }
 
 .img-circle {
